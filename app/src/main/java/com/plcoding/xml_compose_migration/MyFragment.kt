@@ -35,6 +35,7 @@ class MyFragment : Fragment(R.layout.fragment_my) {
                         textSize = 20f
                         gravity = Gravity.CENTER
                     }
+
                 }
             }
         }
